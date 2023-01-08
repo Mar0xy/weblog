@@ -6,7 +6,7 @@
 Weblog title: Marie's blog
 Weblog description: A blog about KAIFA and other projects
 Author: Marie
-//Canonical domain: elsewhere.tld
+Canonical domain: blog.kaifa.ch
 
 
 ;; General config stuff
